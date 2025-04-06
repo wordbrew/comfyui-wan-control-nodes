@@ -14,6 +14,7 @@ This pack provides enhanced control nodes for working with Wan video models in C
 1. Clone this repository into your ComfyUI custom_nodes directory:
 
 cd ComfyUI/custom_nodes
+
 git clone https://github.com/wordbrew/comfyui-wan-control-nodes.git
 
 2. Restart ComfyUI

@@ -36,4 +36,4 @@ This node allows for precise control over how and when control video influences 
 
 ## License
 
-MIT License
+Apache License 2.0

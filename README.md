@@ -32,7 +32,7 @@ This node allows for precise control over how and when control video influences 
 #### Example Workflows:
 
 1. **Basic Control**: Use only a control video to guide the entire generation
-2. **Keyframe Animation**: Use start and end images to define keyframes with optional control in between
+2. **Keyframe Animation**: Use start and end images to define keyframes with control in between
 3. **Partial Control**: Apply control to only a portion of the timeline
 
 ## License
